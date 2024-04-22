@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel = "stylesheet" href = "jogo.css">
+    <script src = "jogo.js"></script>
+    <meta charset="UTF-8">
+    <title>Jogo</title>
+</head>
+<body>
+    <H1>jogo</H1>
+ <div class = "game-boar"></div>
+</body>
+</html>
